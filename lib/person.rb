@@ -1,2 +1,3 @@
 class Person 
-  initialize 
+  initialize (name)
+  
